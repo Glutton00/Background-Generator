@@ -6,7 +6,7 @@ The Background Generator is a simple web application that allows users to create
 
 ## Demo
 
-![Demo Image](link-to-demo-image)
+[URL to the Background Generator](https://glutton00.github.io/Background-Generator/)
 
 ## Features
 
